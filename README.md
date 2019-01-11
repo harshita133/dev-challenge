@@ -5,13 +5,16 @@ Dev challenge
 ### 1. Count frequency of each element of an array
 `Exercise1.cs`
 solution can be viewed in `answer_exercise1.java` file
-You will be presented an array of integers. For each value count the number of occurences. Only output the occurence of a value once.  e.g. `int[] arr2 = { 1, 1, 2, 2, 2 };` should output something like 1:2 2:3 where value 1 occurs once and value 2 occurs three times.
+Question: You will be presented an array of integers. For each value count the number of occurences. Only output the occurence of a value once.  e.g. `int[] arr2 = { 1, 1, 2, 2, 2 };` should output something like 1:2 2:3 where value 1 occurs once and value 2 occurs three times.
 
 ### 2. Sort an array of characters in alphabatic order
 `Exercise2.cs`
-You will be presented an array of characters. Sort them in alphabetical order.
+solution can be viewed in `answer_exercise2.java` file
+Question: You will be presented an array of characters. Sort them in alphabetical order.
 
 ### 3. Create a single page TODO application with the following
+solution can be tested by running the `index.aspx` file which can be found under ToDoTask folder.
+Question:
 1. Backend needs to be .NET Core 2.0+
 2. Created in VS 2017
 3. Frontend has to be a Single Page Application
